@@ -1,0 +1,4 @@
+console.log("Hello World");
+
+let message = "Fahad is Learning Typescript from Governor House";
+console.log(message);
